@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ikimono Proto</string>
+    <string name="splashTitle">A way to bring things to life</string>
+    <string name="projectUrl">http://razortooth.biz</string>
+    <string name="myBlogUrl">http://rageagainstthestatusquo.com</string>
+    <string name="type_b_title">Type B Tag</string>
+    <string name="type_b_sidebar_description">This is your object thing.  Modify attributes below:</string>
+    <string name="type_c_title">Type C Tag</string>
+    <string name="type_c_sidebar_description">This is your object thing.  Modify attributes below. Object is created by blender:</string>
+    <string name="wireframe_on_label">Wireframe On</string>
+    <string name="wireframe_off_label">Wireframe Off</string>
+    <string name="controls_on_label">Controls On</string>
+    <string name="controls_off_label">Controls Off</string>
+</resources>  

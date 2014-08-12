@@ -1,0 +1,47 @@
+# Blender MTL File: 'FlintlockPistolWithFlint.blend'
+# Material Count: 4
+
+newmtl Copper
+Ns 390.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.062162 0.037744 0.011986
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Flintlock.png
+map_refl Textures/copper_reflection_map.jpg
+map_Bump Flintlock_NRM.png
+
+newmtl Flint
+Ns 684.313725
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.034238 0.027434 0.013194
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Flintlock.png
+
+newmtl Metal
+Ns 390.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.049239 0.046572 0.045952
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Flintlock.png
+map_refl Textures/reflection_map.jpg
+map_Bump Flintlock_NRM.png
+
+newmtl Wood
+Ns 194.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.011493 0.008904 0.004845
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Flintlock.png
+map_Bump Flintlock_NRM.png
